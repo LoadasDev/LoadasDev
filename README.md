@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo mais conhecido como loadas.
 
 - 👍 Hoje trabalhando com back-end
-- 🌵 Estudando Lua
+- 🌵 Estudando JavaScript
 - 😊 Pronouns: ele/dele
 
 
